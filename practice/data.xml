@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="data.xsl" type="text/xsl"?>
+
+<students>
+    <student id='1'>
+        <name>Ali</name>
+        <email>Ali@gmail.com</email>
+        <contact>021345</contact>
+    </student>
+    <student id='2'>
+        <name>Sara</name>
+        <email>Sara@gmail.com</email>
+        <contact>029945</contact>
+    </student>
+    <student id='3'>
+        <name>Alina</name>
+        <email>Alina@gmail.com</email>
+        <contact>021005</contact>
+    </student>
+</students>

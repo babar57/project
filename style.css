@@ -1,0 +1,17 @@
+/* .tbl , th , td , tr{
+    border-collapse: collapse;
+     /* border-color: rgb(0, 255, 157);  */
+    /* border: 4px solid aqua; */
+    /* border-image: (https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80)url; */
+
+ 
+.flexitem{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+}
+.img{
+    width: 200%;
+    height: 200px;
+    display: flex;
+}
